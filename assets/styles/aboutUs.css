@@ -252,7 +252,7 @@ color: #fff;
 {
     width: 50%;
     height: 400px;
-    background-image: url('/assets/img/ABOUT-ORIGIN.png');
+    background-image: url('../img/ABOUT-ORIGIN.png');
     background-size: cover;
     float: left;
 }
@@ -266,7 +266,7 @@ color: #fff;
 {
     width: 50%;
     height: 400px;
-    background-image: url('/assets/img/About_Customer_service_2.jpg');
+    background-image: url('../img/About_Customer_service_2.jpg');
     background-size: cover;
     float:left;
 }
@@ -292,7 +292,7 @@ color: #fff;
 .content .bottom .two{
     width:50%;
     height:400px;
-    background-image: url('/assets/img/ABOUT-CAREER3.jpg');
+    background-image: url('../img/ABOUT-CAREER3.jpg');
     background-size: cover;
     float:left;
 }
